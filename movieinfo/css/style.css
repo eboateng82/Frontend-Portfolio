@@ -2,9 +2,9 @@
 	width: 100%;
 }
 
-@media(min-width: 960px) {
+@media(min-width: 50%) {
 #movies .col-md-3 .well {
-	height: 390px;
+	height: 70%;
 }
 
 #movies .col-md-3 img {
